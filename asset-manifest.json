@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adianliusie.github.io/medpredict/static/css/main.7f980f54.css",
+    "main.js": "/adianliusie.github.io/medpredict/static/js/main.e4d9ab94.js",
+    "index.html": "/adianliusie.github.io/medpredict/index.html",
+    "main.7f980f54.css.map": "/adianliusie.github.io/medpredict/static/css/main.7f980f54.css.map",
+    "main.e4d9ab94.js.map": "/adianliusie.github.io/medpredict/static/js/main.e4d9ab94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f980f54.css",
+    "static/js/main.e4d9ab94.js"
+  ]
+}
